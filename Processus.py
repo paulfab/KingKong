@@ -4,4 +4,3 @@ from fileParser import FileParser
 file_name = "source/busy_day.in"
 file_parser = FileParser(file_name)
 file_parser.init()
-print file_parser.row
